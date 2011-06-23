@@ -182,7 +182,7 @@
 				BC22505813B2BA940006D350 /* Sources */,
 				BC22505913B2BA940006D350 /* Frameworks */,
 				BC22505A13B2BA940006D350 /* Resources */,
-				BC22505B13B2BA940006D350 /* ShellScript */,
+				BC22505B13B2BA940006D350 /* Run Script */,
 			);
 			buildRules = (
 			);
@@ -240,13 +240,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		BC22505B13B2BA940006D350 /* ShellScript */ = {
+		BC22505B13B2BA940006D350 /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
+			name = "Run Script";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -398,7 +399,7 @@
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_AFTER_BUILD = YES;
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -421,7 +422,7 @@
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_AFTER_BUILD = YES;
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
