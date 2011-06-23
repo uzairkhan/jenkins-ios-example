@@ -11436,7 +11436,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>972</integer>
+					<integer>973</integer>
 				</dict>
 			</array>
 		</dict>
@@ -11462,11 +11462,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>959</integer>
+					<integer>960</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>963</integer>
+					<integer>964</integer>
 				</dict>
 			</array>
 		</dict>
@@ -11545,12 +11545,13 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>74</integer>
+					<integer>959</integer>
 				</dict>
 			</array>
 		</dict>
 		<string>: </string>
 		<real>4</real>
+		<string>JenkinsIOSExample</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11576,15 +11577,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>960</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
 					<integer>961</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>962</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>963</integer>
 				</dict>
 			</array>
 		</dict>
@@ -11630,15 +11631,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>964</integer>
+					<integer>965</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>952</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>965</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -11648,17 +11645,13 @@
 					<key>CF$UID</key>
 					<integer>967</integer>
 				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>968</integer>
 				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>62</integer>
-				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>969</integer>
@@ -11669,11 +11662,19 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+					<integer>970</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
 					<integer>62</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>970</integer>
+					<integer>62</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>971</integer>
 				</dict>
 			</array>
 		</dict>
@@ -11681,16 +11682,16 @@
 		<string>IDEActivityReportStringSegmentType</string>
 		<string>IDEActivityReportStringSegmentTimeStyle</string>
 		<string>IDEActivityReportStringSegmentDate</string>
-		<string>Today at 10:13 AM</string>
+		<string>Today at 6:09 PM</string>
 		<real>3</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>971</integer>
+				<integer>972</integer>
 			</dict>
 			<key>NS.time</key>
-			<real>330480790.49462003</real>
+			<real>330509360.51976597</real>
 		</dict>
 		<dict>
 			<key>$classes</key>
